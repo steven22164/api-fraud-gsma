@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode 或 IDE 設定檔
+.vscode/
+.idea/
+
+# Firebase credentials
+*.json
+
+# 作業系統產生的垃圾檔案
+.DS_Store
+
+# Python virtual environment (如果有用)
+venv/
+.env/
+
+# Render 部署暫存檔
+*.log
