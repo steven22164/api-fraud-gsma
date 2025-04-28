@@ -20,3 +20,6 @@ venv/
 
 # Render 部署暫存檔
 *.log
+
+api-fraud-gsma-19e8e-firebase-adminsdk-fbsvc-8d73382f1f.json
+
